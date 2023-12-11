@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Programming 122!");
+            Console.WriteLine("Hello, Dimpy");
 
         }
     }
